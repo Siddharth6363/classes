@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>        //strings concatination using classes 
 #include<string.h>
 using namespace std;
 
