@@ -1,8 +1,8 @@
-#include<iostream>
+#include<iostream>             //INSIDE FUNCTION
 using namespace std;
 
 class year{
-        public:
+        public:              
         int year;
 
        void result(){
